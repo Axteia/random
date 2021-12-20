@@ -1,0 +1,1 @@
+-- some lua code, possibly python in the future whenever i understand all of the basics lol --
